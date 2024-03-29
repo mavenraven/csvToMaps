@@ -1,6 +1,12 @@
 # CSV to Maps
 
-[![CircleCI](https://circleci.com/gh/mavenraven/fi.svg?style=svg)](https://circleci.com/gh/mavenraven/fi)
+## Goal
+
+Users take their dog for a walk every day. These walks are tracked using GPS.
+The [dataset](https://raw.githubusercontent.com/mavenraven/csvToMaps/master/src/test/resources/gps_dataset.csv) contains
+raw GPS coordinates from a few different walks around NYC.
+
+
 
 ## Usage
 ```
