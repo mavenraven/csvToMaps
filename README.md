@@ -1,6 +1,21 @@
 # CSV to Maps
 
-[![CircleCI](https://circleci.com/gh/mavenraven/fi.svg?style=svg)](https://circleci.com/gh/mavenraven/fi)
+## Goal
+
+Users take their dog for a walk every day. These walks are tracked using GPS.
+
+
+The included [data set](https://raw.githubusercontent.com/mavenraven/csvToMaps/master/src/test/resources/gps_dataset.csv) contains
+raw GPS coordinates from a few different walks around NYC.
+
+For this project, you will write a simple program that:
+1. Parses this data set
+2. Separates the individual walks
+3. Displays each walk on a map along with any interesting statistics
+
+What to display in part 3 and how to display it is entirely up to you. It could calculate the total
+duration or distance traveled for each walk. It could even call a service to find out what the
+weather was like during that day. Whatever seems interesting!
 
 ## Usage
 ```
