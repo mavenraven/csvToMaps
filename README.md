@@ -17,6 +17,14 @@ What to display in part 3 and how to display it is entirely up to you. It could 
 duration or distance traveled for each walk. It could even call a service to find out what the
 weather was like during that day. Whatever seems interesting!
 
+## Notes
+
+csvToMaps is a Java project that I implemented for a take home interview.
+
+I happened to write this project in a more functional programming style. For production code, I follow the established conventions of the codebase.
+
+For example, some Ruby on Rails projects follow "Hexagonal Architecture", some projects follow the service object pattern, and some simply use fat models. I'm completely flexible as your happiness is my ultimate goal!
+
 ## Usage
 ```
 Usage: CSVToMaps [options]
