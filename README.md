@@ -1,5 +1,7 @@
 # CSV to Maps
 
+![an example walk](src/test/resources/finished_map.png)
+
 ## Goal
 
 Users take their dog for a walk every day. These walks are tracked using GPS.
